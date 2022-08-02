@@ -1,1 +1,1 @@
-# DT-Game
+# DTGame
